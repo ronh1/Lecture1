@@ -7,6 +7,6 @@ def repeated_numbers(numbers):
                 print(i)
                 break
     else:
-        print("Please Enter correct list of numbers")
+        print("Please Enter correct list of numbers.")
 a = [9,2,3,2,1,5,6,5,5,5]
 repeated_numbers(a)
